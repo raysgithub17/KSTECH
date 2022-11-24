@@ -1,0 +1,105 @@
+.body{
+    background-color: rgba(243, 243, 243, 1);
+}
+.pc{
+    display: flex;
+}
+.pc1{
+    display: flex;
+    border-style: solid ;
+    border-color: white;
+    
+}
+.pc11{
+    width: 450px;
+    background-color: rgba(243, 243, 243, 1);
+    margin:10px;
+    border-style: solid ;
+    border-color: white;
+    height: 350px;
+}
+.pc12{
+    width: 450px;
+    background-color: rgba(243, 243, 243, 1);
+    margin:10px;
+    border-style: solid ;
+    border-color: white;
+    height: 350px;
+}
+.pc13{
+    width: 450px;
+    background-color: rgba(243, 243, 243, 1);
+    margin:10px;
+    border-style: solid ;
+    border-color: white;
+    height: 350px;
+}
+.pc14{
+    width: 450px;
+    background-color: rgba(243, 243, 243, 1);
+    margin:10px;
+    border-style: solid ;
+    border-color: white;
+    height: 350px;
+}
+.pc11-img{
+    width: 250px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.pc12-img{
+    width: 250px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.pc13-img{
+    width: 250px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.pc14-img{
+    width: 250px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.PhoneTypo{
+    height: 70px;
+}
+.PhoneTypo > h{
+    font-size: 35px;
+    padding-left: 50px;
+}
+.pc-text{
+    text-align: center;
+}
+.pc-header{
+    text-align: center;
+}
+.pc11-header{
+    text-align: center;
+}
+.pc12-header{
+    text-align: center;
+}
+.pc13-header{
+    text-align: center;
+}
+.pc14-header{
+    text-align: center;
+}
+.pc11-text{
+    text-align: center;
+    font-size: 15px;
+}
+.pc12-text{
+    text-align: center;
+    font-size: 15px;
+}
+.pc13-text{
+    text-align: center;
+    font-size: 15px;
+}
+.pc14-text{
+    text-align: center;
+    font-size: 15px;
+}
